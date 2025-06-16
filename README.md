@@ -6,7 +6,7 @@
 
 🔬 **Driving accountability for better nutrition in the food and beverage sector**
 
-Welcome to the official GitHub space of the [Access to Nutrition Initiative (ATNI)](https://accesstonutrition.org) — an independent non-profit organization working to improve the private sector’s contribution to addressing global nutrition challenges.
+Welcome to the official GitHub space of the [Access to Nutrition Initiative (ATNI)](https://accesstonutrition.org) - an independent non-profit organization working to improve the private sector’s contribution to addressing global nutrition challenges.
 
 This organization hosts public datasets, tools, and analytics used in ATNI's research and assessments of food companies and markets around the world.
 
