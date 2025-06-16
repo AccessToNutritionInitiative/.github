@@ -48,6 +48,6 @@ All materials published in this organization are shared under the
 ## 📬 Contact
 
 Questions? Collaborations?  
-Email us at **data@accesstonutrition.org** or open an issue in one of the repositories.
+Email us at **aurelie.reynier@atni.org** or open an issue in one of the repositories.
 
 
