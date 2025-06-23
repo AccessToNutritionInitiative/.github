@@ -30,15 +30,14 @@ This organization hosts public datasets, tools, and analytics used in ATNI's res
 
 ## 🌍 About ATNI
 
-ATNI works to transform markets so that nutritious food is more accessible and affordable for all.  
-We assess companies’ performance and provide stakeholders — from investors to policymakers — with the insights needed to drive change.
+Welcome to the official GitHub space of the [Access to Nutrition Initiative (ATNI)](https://accesstonutrition.org) - an independent non-profit organization working to improve the private sector’s contribution to addressing global nutrition challenges.
 
 Learn more about our mission, methodologies, and impact at:  
 👉 [https://accesstonutrition.org](https://accesstonutrition.org)
 
 ---
 
-## 📜 License !!!!
+## 📜 License
 
 All materials published in this organization are shared under the  
 [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/), unless otherwise noted.
