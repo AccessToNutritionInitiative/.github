@@ -1,6 +1,6 @@
 # Welcome
 
-![ATNI logo](https://accesstonutrition.org/wp-content/uploads/2021/10/ATNI-Logo_RGB_Horizontal.png)
+![Image](https://github.com/user-attachments/assets/a8d16056-475d-4794-9706-71a4c434fb2f)
 
 # Access to Nutrition Initiative (ATNI)
 
