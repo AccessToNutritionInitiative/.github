@@ -1,15 +1,15 @@
 # Welcome
 
-<img src="https://github.com/user-attachments/assets/a8d16056-475d-4794-9706-71a4c434fb2f" alt="ATNI logo" width="200"/>
+<img src="https://github.com/user-attachments/assets/a8d16056-475d-4794-9706-71a4c434fb2f" alt="ATNi logo" width="200"/>
 
 
 # Access to Nutrition Initiative (ATNi)
 
 🔬 **Driving accountability for better nutrition in the food and beverage sector**
 
-Welcome to the official GitHub space of the [Access to Nutrition Initiative (ATNI)](https://accesstonutrition.org) - an independent non-profit organization working to improve the private sector’s contribution to addressing global nutrition challenges.
+Welcome to the official GitHub space of the [Access to Nutrition Initiative (ATNi)](https://accesstonutrition.org) - an independent non-profit organization working to improve the private sector’s contribution to addressing global nutrition challenges.
 
-This organization hosts public datasets, tools, and analytics used in ATNI's research and assessments of food companies and markets around the world.
+This organization hosts public datasets, tools, and analytics used in ATNi's research and assessments of food companies and markets around the world.
 
 ---
 
@@ -29,9 +29,9 @@ This organization hosts public datasets, tools, and analytics used in ATNI's res
 
 ---
 
-## 🌍 About ATNI
+## 🌍 About ATNi
 
-Welcome to the official GitHub space of the [Access to Nutrition Initiative (ATNI)](https://accesstonutrition.org) - an independent non-profit organization working to improve the private sector’s contribution to addressing global nutrition challenges.
+Welcome to the official GitHub space of the [Access to Nutrition Initiative (ATNi)](https://accesstonutrition.org) - an independent non-profit organization working to improve the private sector’s contribution to addressing global nutrition challenges.
 
 Learn more about our mission, methodologies, and impact at:  
 👉 [https://accesstonutrition.org](https://accesstonutrition.org)
