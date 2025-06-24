@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/a8d16056-475d-4794-9706-71a4c434fb2f" alt="ATNI logo" width="200"/>
 
 
-# Access to Nutrition Initiative (ATNI)
+# Access to Nutrition Initiative (ATNi)
 
 🔬 **Driving accountability for better nutrition in the food and beverage sector**
 
