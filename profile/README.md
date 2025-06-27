@@ -24,7 +24,7 @@ This organization hosts public datasets, tools, and analytics used in ATNi's res
   Nutrient profiling data of packaged food products across countries such as Kenya, Tanzania, and more.
   Corporate Profile data including detailed suggestions and guidance for companies assessed in ATNi's tools. These recommendations are categorized in elements in place and priority areas for improvement.
 
-- **🛠️ Scoring Tools & Methodologies**  *(Coming soon – under development)*
+- **🛠️ Scoring Tools & Methodologies**  *(Coming soon – under development)*  
   Implementations of healthiness scoring systems like Nutri-Score, Health Star Rating (HSR), and the WHO Nutrient Profile Model.
 
 - **📄 Reports & Documentation**  
