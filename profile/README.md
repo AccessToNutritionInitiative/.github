@@ -2,6 +2,11 @@
 
 <img src="https://github.com/user-attachments/assets/a8d16056-475d-4794-9706-71a4c434fb2f" alt="ATNi logo" width="200"/>
 
+![Focus: Nutrition](https://img.shields.io/badge/Focus-Nutrition-00bfbf)
+![Scope: Global](https://img.shields.io/badge/Scope-Global-blueviolet)
+![Data Type: Open](https://img.shields.io/badge/Data%20Type-Open-blue)
+![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
+
 
 # Access to Nutrition Initiative (ATNi)
 
@@ -41,8 +46,8 @@ Learn more about our mission, methodologies, and impact at:
 
 ## 📜 License
 
-All materials published in this organization are shared under the  
-[Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/), unless otherwise noted.
+All materials published in this organization are shared under the CC BY-NC-ND 4.0
+You may share this dataset with attribution, but modification and commercial use are not permitted, unless otherwise noted.
 
 ---
 
